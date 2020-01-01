@@ -1,0 +1,4 @@
+io\kulkarni\movieinfoservice\models\Movie.class
+io\kulkarni\movieinfoservice\models\MovieSummary.class
+io\kulkarni\movieinfoservice\MovieInfoServiceApplication.class
+io\kulkarni\movieinfoservice\resource\MovieResource.class
